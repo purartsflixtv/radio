@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmKRljHgmCIfP16mvoErBI4ysNA7q9Njmei2ytej5Rg&s",Difusora FM Curitiba
+https://8545.brasilstream.com.br/stream?origem=site
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hCPvJvbc-qJcO5_4qTHoqkLO9CjrrMKrRhECZUfbtA&s=10",Difusora FM São Joaquim - SC
+http://stm01.virtualcast.com.br:8432/difusorasaojoaquim
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWb0jMIR8bu5ChB7qT_i-iBonbM8mazU0EjKuQzlzD8Q&s=10",Piatã FM Salvador - BA
+https://streaming.livespanel.com:9430/stream
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5lrmyZL3l4UEyqJIppOd_yLFbHEpqkNPrPzMVnciuA&s=10",Rádio Sociedade da Bahia
+https://radio01.zas.media:8022/stream
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9KwhiOoCPEWoYd5MeCc0yBrF5X4Ib88YHc694Np3_zg&s=10",Rádio Gospel
+https://s11.maxcast.com.br:9165/live
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROsvZQnu4y-qFzVsyMZf-my88JpgQfzljLC2NgL_-QhA&s",Rádio FM O Dia 100.5
+https://streaming.livespanel.com:8016/fmodia
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio13358_1757107780.jpg",Rádio Jovem Pan 100.9 FM - Feira de Santana/BA
+https://8046.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio10351_1786710057.png",Rádio Bahia 88.7 FM - Salvador/BA
+https://e-spo-106.fabricahost.com.br/radiobahiafm?f=1787070490N01M0AV79F7989535HBQRD7SSSX&tid=01M0AV79F7DNRGX3QH0EDFK5BB
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/md/radio24577_1742922125.jpg",Radio Nova Brasil 104.7 FM - Salvador/BA
+https://24253.live.streamtheworld.com:443/NOVABRASIL_SSAAAC.aac
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio9740_1682606380.png",Rádio A Tarde 103.9 FM - Salvador/BA
+https://stm35.srvstm.com:7920/stream
