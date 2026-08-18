@@ -29,8 +29,6 @@ https://cast.radiu.live:6758/stream
 http://servidor30.brlogic.com:8060/live
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio18896_1553797163.jpg",Rádio FM Sergipe 95.9 FM - Aracaju/SE
 https://08.stmip.net:8012/stream
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio25980_1678881919.png",Rádio Xodó 101.9 FM - Tobias Barreto/SE
-https://09.stmip.net:8346/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio13109_1625849549.jpg",Rádio Esperança 92.7 FM - Estância/SE
 https://s30.maxcast.com.br:9028/live
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio214571_1750769442.png",Rádio Francês 106.1 FM - Maceió/AL
@@ -97,5 +95,3 @@ https://hts07.brascast.com:8834/live
 http://stm01.virtualcast.com.br:8466/nativaitajai
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio12229_1725363304.png",Rádio Costa do Sol 101.7 FM - Araruama/RJ
 https://e-spo-103.fabricahost.com.br/radiocostadosol?f=1787077291N01M0B1PV5R57ACJX4AJ2APR6VP&tid=01M0B1PV5RX6EXT1ZSHGQDAQPZ
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio8817_1676300226.png",Rádio Globo 98.1 FM - Rio de Janeiro/RJ
-https://24403.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
