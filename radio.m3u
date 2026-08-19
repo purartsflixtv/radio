@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio36396_1678381149.png",Xodó 89.9 FM - Aracaju/SE
 https://09.stmip.net:8824/stream
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio14263_1629813073.png",Piatã 94.3 FM - Salvador/BA
-https://streaming.livespanel.com:9430/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmKRljHgmCIfP16mvoErBI4ysNA7q9Njmei2ytej5Rg&s",Difusora FM Curitiba
 https://8545.brasilstream.com.br/stream?origem=site
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hCPvJvbc-qJcO5_4qTHoqkLO9CjrrMKrRhECZUfbtA&s=10",Difusora FM São Joaquim - SC
