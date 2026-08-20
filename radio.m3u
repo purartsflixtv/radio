@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1779129361.png", Rádio BandNews SP 96.9 FM
+https://27423.live.streamtheworld.com:443/BANDNEWSFM_SPAAC.aac?dist=radios.com.br
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio36396_1678381149.png",Xodó 89.9 FM - Aracaju/SE
 https://09.stmip.net:8824/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmKRljHgmCIfP16mvoErBI4ysNA7q9Njmei2ytej5Rg&s",Difusora FM Curitiba
