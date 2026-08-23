@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://img.radios.com.br/radio/lg/radio12229_1725363304.png",Rádio Costa do Sol 101.7 FM
-https://e-spo-101.fabricahost.com.br/radiocostadosol?f=1787484130N01M0Q5PJYB37BK97NNN615CCVA&tid=01M0Q5PJYB6VG4Q015301C09XJ
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio14338_1778242073.png", Rádio Nova Princesa 99.3 FM - Itabaiana/SE
 http://1.stmip.net:8048/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio15060_1671118820.png", Rádio FM Boca da Mata 104.9 - Nossa Senhora da Glória/SE
