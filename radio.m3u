@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://www.radios.com.br/radio/lg/radio14120_1674491966.png",Nova Brasil FM
-https://players.radios.com.br/radio/8014/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio14338_1778242073.png", Rádio Nova Princesa 99.3 FM - Itabaiana/SE
 http://1.stmip.net:8048/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio15060_1671118820.png", Rádio FM Boca da Mata 104.9 - Nossa Senhora da Glória/SE
