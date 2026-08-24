@@ -7,12 +7,8 @@ https://stream-176.surfernetwork.com/0o2cavmaejnvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://streaming.educadorafm.ba.gov.br/stream-01
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio15060_1671118820.png", Rádio FM Boca da Mata 104.9 - Nossa Senhora da Glória/SE
 https://servidor37-5.brlogic.com:8382/live
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio18981_1694690278.jpg", Rádio Xodó 98.9 FM - Nossa Senhora da Glória/SE
-https://13.stmip.net:2328/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1779129361.png", Rádio BandNews SP 96.9 FM
 https://27423.live.streamtheworld.com:443/BANDNEWSFM_SPAAC.aac?dist=radios.com.br
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio36396_1678381149.png",Xodó 89.9 FM - Aracaju/SE
-https://09.stmip.net:8824/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmKRljHgmCIfP16mvoErBI4ysNA7q9Njmei2ytej5Rg&s",Difusora FM Curitiba
 https://8545.brasilstream.com.br/stream?origem=site
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hCPvJvbc-qJcO5_4qTHoqkLO9CjrrMKrRhECZUfbtA&s=10",Difusora FM São Joaquim - SC
@@ -97,8 +93,6 @@ https://servidor13-2.brlogic.com:7130/live
 https://8239.brasilstream.com.br/stream?origem=radios.com.br
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio247445_1719523596.jpg",Rádio Vox Gospel 89.5 FM - Londrina/PR
 https://servidor25.brlogic.com:7062/live
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio22582_1675687267.jpeg",Vitrola - Ponta Grossa/PR
-http://sv10.hdradios.net:12270/;
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio17443_1685711025.jpeg",Canoa Grande FM 87.7 - Iguaraçu/PR
 https://server01.ouvir.radio.br:8021/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio18854_1551092167.png",Tropical 94.1 FM - Boa Vista/RR
