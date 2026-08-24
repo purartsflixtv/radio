@@ -41,8 +41,6 @@ http://servidor30.brlogic.com:8060/live
 https://08.stmip.net:8012/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio13109_1625849549.jpg",Esperança 92.7 FM - Estância/SE
 https://s30.maxcast.com.br:9028/live
-#EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio214571_1750769442.png",Rádio Francês 106.1 FM - Maceió/AL
-https://27363.live.streamtheworld.com:443/FRANCESFM_MACAAC.aac?dist=RadiosNet
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio14126_1673873793.png",Pajuçara 103.7 FM
 https://cast3.hoost.com.br:8679/stream
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://img.radios.com.br/radio/lg/radio211329_1725517346.png",Rede de Rádios Diamante - Só Vaquejada - Maceió/AL
