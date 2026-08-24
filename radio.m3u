@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fkyOJB1Y-Vo1ENZK38mvpfh0gvfQ5Y5NUtLvsDQb2g&s=10", Mirante 104,1 FM/MA
+http://cast61.sitehosting.com.br:8557/live
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdbQqLAsxePbnlEppr7ycliW060se3NuotSEcLzUHGA&s", Princesa FM Feira de Santana/BA
 https://www.appradio.app:8165/live
 #EXTINF:-1 group-title="Rádio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXO5d_ykVQfBfcp1aoQ7Ld-Uaq5v674HshBnQDU8-qOg&ss", Rádio Funk Digital/SP
